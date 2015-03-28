@@ -1,3 +1,5 @@
+pull requests are how you get commits in github
+
 GitHub is a hub of ./gits directories
 
 you can push and pull commites to and from .git/ directories
