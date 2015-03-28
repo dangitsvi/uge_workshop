@@ -1,3 +1,6 @@
+    #hidden folder where the staging are commits live
+    .git/
+
     #lists contents of directory
     2  ls
     #make directory
