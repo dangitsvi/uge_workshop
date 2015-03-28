@@ -1,0 +1,78 @@
+    #lists contents of directory
+    2  ls
+    #make directory
+    3  mkdir
+    4  mkdir --help
+
+    5  echo $EDITOR
+    6  echo $PATH
+
+    #print working directory
+    9  pwd
+
+    #change directory
+   10  cd
+
+
+   #Different ls tags
+   17  ls
+
+   #time sort
+   18  ls -t
+   #long form
+   20  ls -l
+   #combos
+   22  ls -lt
+   23  ls -lrt
+   24  ls -ltr
+   #reverse
+   25  ls -r
+
+   #man doesnt work on windows
+   31  man ls
+   32  ls help
+
+   #navigation practice
+   50  ls
+   76  cd workspace
+   77  ls
+   78  cd descentcampaigntracker
+   79  ls
+   80  cd assets
+   81  ls
+   82  ls -a
+   83  cd ..
+   84  cd ../../.
+   85  cd ls
+   86  cd
+   87  ls
+   88  cd workspace
+   89  ls
+   90  cd ../desktop
+   91  ls
+   92  clear
+   93  ls
+   94  cd
+   95  ls
+   96  ls -a
+   97  ls desktop
+   98  cd desktop
+   99  ls
+  100  ls ~
+
+  #history practice
+  127  history
+  128  history --help
+  129  history | less
+  130  cleara
+  131  clea
+  132  clear
+  133  history
+  134  history | less
+  135  history | less
+  136  clear
+  137  man less
+  138  less --help
+  139  clear
+  140  cd
+  141  history > moving_around.txt
